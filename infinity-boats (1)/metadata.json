@@ -1,0 +1,6 @@
+{
+  "name": "INFINITY BOATS",
+  "description": "An interactive, high-performance showcase and search portal for premium luxury yacht charters and day rentals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

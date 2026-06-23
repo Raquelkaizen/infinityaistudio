@@ -1,0 +1,206 @@
+[
+  {
+    "id": "sanlorenzo-s7",
+    "name": "San Lorenzo S7",
+    "brand": "San Lorenzo",
+    "type": "Superyacht",
+    "sizeMeters": 22.8,
+    "sizeFeet": 74.8,
+    "maxGuests": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1540962351504-03099e0a754b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "charterCode": "S-LNZ",
+    "included": {
+      "EN": ["Professional Captain", "Sailing Hostess", "Selection of soft drinks, beer, & wine", "Ice & fresh fruit block", "Snorkeling Equipment & Paddle Surf", "Anti-jellyfish inflatable pool"],
+      "NL": ["Professionele Kapitein", "Zeilhostess", "Selectie frisdranken, bier & wijn", "Ijs & vers fruit", "Snorkeluitrusting & Paddle Surf", "Opblaasbaar kwallenscherm"],
+      "ES": ["Capitán Profesional", "Azafata de Navegación", "Selección de refrescos, cerveza y vino", "Hielo y fruta fresca", "Equipo de snorkel y Paddle Surf", "Piscina hinchable de protección contra medusas"],
+      "FR": ["Capitaine Professionnel", "Hôtesse de Navigation", "Sélection de sodas, bière et vin", "Glace et fruits frais", "Équipement de plongée & Paddle Surf", "Piscine gonflable de protection anti-méduses"],
+      "IT": ["Capitano Professionista", "Hostess di Navigazione", "Selezione di analcolici, birra e vino", "Ghiaccio e frutta fresca", "Attrezzatura per snorkeling e Paddle Surf", "Piscina gonfiabile protettiva anti-meduse"]
+    },
+    "excluded": {
+      "EN": ["VAT (21%)", "Fuel consumed (Approx. €380/hr)", "Overnight surcharge (€500)", "APA (Pre-provisioning deposit)"],
+      "NL": ["BTW (21%)", "Verbruikte brandstof (ca. €380/uur)", "Toeslag overnachting (€500)", "APA (Aanbetaling proviand)"],
+      "ES": ["IVA (21%)", "Combustible consumido (Aprox. €380/hora)", "Suplemento de pernocta (€500)", "APA (Depósito de aprovisionamiento)"],
+      "FR": ["TVA (21%)", "Carburant consommé (Env. €380/heure)", "Supplément nuitée (€500)", "APA (Dépôt d'approvisionnement)"],
+      "IT": ["IVA (21%)", "Carburante consumato (Circa €380/ora)", "Supplemento pernottamento (€500)", "APA (Deposito di approvvigionamento)"]
+    },
+    "pricing": {
+      "highSeason": 5400,
+      "midSeason": 4600,
+      "lowSeason": 3850
+    }
+  },
+  {
+    "id": "pershing-74",
+    "name": "Pershing 74",
+    "brand": "Pershing Yachts",
+    "type": "Yacht",
+    "sizeMeters": 24.1,
+    "sizeFeet": 79.1,
+    "maxGuests": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1605281317010-fe5fed93ef44?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "charterCode": "P-HSG",
+    "included": {
+      "EN": ["Certified Skipper", "Deckhand assistant", "Aperitif and beach-club towels", "Premium Sound System with Bluetooth", "Seabob F5S jet-propulsor for 1 day", "Base port mooring in Marina Ibiza"],
+      "NL": ["Gecertificeerde Skipper", "Matroos assistent", "Aperitief en strandlaken service", "Premium geluidssysteem met Bluetooth", "Seabob F5S jet-propulsor voor 1 dag", "Aanmeren in thuishaven Marina Ibiza"],
+      "ES": ["Patrón Certificado", "Asistente de cubierta", "Aperitivo y toallas de playa de alta gama", "Sistema de sonido premium con Bluetooth", "Seabob F5S propulsor jet por 1 día", "Amarre en puerto base en Marina Ibiza"],
+      "FR": ["Skipper certifié", "Assistant de pont", "Apéritif et serviettes de bain de luxe", "Système de sonorisation premium avec Bluetooth", "Propulseur Seabob F5S offert pour 1 jour", "Amarrage au port de base à Marina Ibiza"],
+      "IT": ["Skipper certificato", "Assistente di coperta", "Aperitivo e asciugamani da spiaggia premium", "Sistema audio premium con Bluetooth", "Seabob F5S propulsore subacqueo per 1 giorno", "Ormeggio nel porto base a Marina Ibiza"]
+    },
+    "excluded": {
+      "EN": ["VAT (21%)", "Fuel (consumption approx. €410/hr)", "Catering dinner requests", "Standard tip for the crew"],
+      "NL": ["BTW (21%)", "Brandstof (verbruik ca. €410/uur)", "Exclusieve catering op aanvraag", "Fooi voor de bemanning"],
+      "ES": ["IVA (21%)", "Combustible (consumo aprox. €410/hora)", "Peticiones de catering exclusivo", "Propina de tripulación (opcional)"],
+      "FR": ["TVA (21%)", "Carburant (consommation env. €410/heure)", "Prestations traiteur de luxe", "Pourboire équipage d'usage"],
+      "IT": ["IVA (21%)", "Carburante (consumo circa €410/ora)", "Servizio catering esclusivo", "Mancia per l'equipaggio"]
+    },
+    "pricing": {
+      "highSeason": 5900,
+      "midSeason": 4900,
+      "lowSeason": 4100
+    }
+  },
+  {
+    "id": "princess-v55",
+    "name": "Princess V55 Sport",
+    "brand": "Princess Yachts",
+    "type": "Yacht",
+    "sizeMeters": 17.6,
+    "sizeFeet": 57.7,
+    "maxGuests": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1517089596392-db9a5e9478ec?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "charterCode": "PR-V5",
+    "included": {
+      "EN": ["Captain & hostess", "Soft drinks, beer, & standard cava", "Towels", "Wakesurf / Snorkel gear", "Yacht tender for beach drop-offs"],
+      "NL": ["Kapitein & hostess", "Frisdrank, bier & standaard cava", "Handdoeken", "Wakesurf / Snorkeluitrusting", "Bijboot voor strandtransfers"],
+      "ES": ["Capitán y tripulación", "Refrescos, cerveza y cava estándar", "Toallas", "Wakesurf y equipo de snorkel", "Lancha auxiliar para traslados a la playa"],
+      "FR": ["Capitaine & équipage", "Boissons gratuites, bière & cava standard", "Serviettes de bain", "Wakesurf / Masques et tubas", "Annexe de yacht pour transferts plage"],
+      "IT": ["Capitano e hostess", "Soft drink, birra e cava standard", "Asciugamani", "Wakesurf / Attrezzatura snorkeling", "Tender per sbarco a terra"]
+    },
+    "excluded": {
+      "EN": ["VAT (21%)", "Fuel (approx. €280/hr)", "Hard liquors", "Chef onboard (€350/day)"],
+      "NL": ["BTW (21%)", "Brandstof (ca. €280/uur)", "Sterke drank", "Kok aan boord (€350/dag)"],
+      "ES": ["IVA (21%)", "Combustible (aprox. €280/hora)", "Bebidas espirituosas premium", "Chef a bordo (€350/día)"],
+      "FR": ["TVA (21%)", "Carburant (env. €280/heure)", "Alcools forts", "Chef privé à bord (€350/jour)"],
+      "IT": ["IVA (21%)", "Carburante (circa €280/ora)", "Superalcolici", "Chef privato a bordo (€350/giorno)"]
+    },
+    "pricing": {
+      "highSeason": 3805,
+      "midSeason": 3100,
+      "lowSeason": 2450
+    }
+  },
+  {
+    "id": "fountaine-51",
+    "name": "Aura 51 Luxury",
+    "brand": "Fountaine Pajot",
+    "type": "Catamaran",
+    "sizeMeters": 15.5,
+    "sizeFeet": 50.8,
+    "maxGuests": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1480497490787-505ec076689f?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1543157148-f68618a3a11e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "charterCode": "FP-AUR",
+    "included": {
+      "EN": ["Skipper & stewardess", "Paddleboards (2x)", "Snorkeling gear", "Watermaker & Generator AC", "Ibiza port boarding pass fees", "Bath towels and linen"],
+      "NL": ["Skipper & stewardess", "Paddleboards (2x)", "Snorkeluitrusting", "Watermaker & Generator airco", "Ibiza havenbelastingen", "Badhanddoeken en bedlinnen"],
+      "ES": ["Patrón y azafata", "Paddleboards (2x)", "Equipo de snorkel completo", "Desalinizadora y Generador de aire acondicionado", "Tasas de embarque en puerto de Ibiza", "Toallas de baño y ropa de cama"],
+      "FR": ["Skipper & hôtesse", "Planches de paddle (2x)", "Équipement complet de plongée", "Dessalinisateur & Générateur clim", "Frais d'embarquement port d'Ibiza", "Serviettes et draps de coton"],
+      "IT": ["Skipper e hostess", "Stand-up paddle (2x)", "Pinne e maschere d'acqua", "Dissalatore e Generatore A/C", "Tasse di imbarco porto di Ibiza", "Asciugamani da bagno e lenzuola"]
+    },
+    "excluded": {
+      "EN": ["VAT (21%)", "Fuel for engines & generator (€80/hr)", "Food catering & beverage plan (optional)", "End-of-stay deep cleaning (€250)"],
+      "NL": ["BTW (21%)", "Brandstof voor de motoren & generator (€80/uur)", "Eetservice & dranken (optioneel)", "Eindschoonmaak (€250)"],
+      "ES": ["IVA (21%)", "Combustible para motores y generador (€80/hora)", "Servicio de comidas y bebidas (opcional)", "Limpieza final a fondo (€250)"],
+      "FR": ["TVA (21%)", "Carburant moteur & générateur (€80/heure)", "Forfait traiteur pour repas (optionnel)", "Ménage complet de fin (€250)"],
+      "IT": ["IVA (21%)", "Carburante motori & generatore (€80/ora)", "Servizio cambusa (opzionale)", "Pulizia finale profonda (€250)"]
+    },
+    "pricing": {
+      "highSeason": 2900,
+      "midSeason": 2500,
+      "lowSeason": 1950
+    }
+  },
+  {
+    "id": "riva-rivarama",
+    "name": "Rivarama 44 Classic",
+    "brand": "Riva",
+    "type": "Cruiser",
+    "sizeMeters": 13.4,
+    "sizeFeet": 44.0,
+    "maxGuests": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "charterCode": "R-RIV",
+    "included": {
+      "EN": ["Professional Captain", "Complimentary champagne & fresh juices", "Towels", "Snorkel sets", "Hydraulic swim ladder platform"],
+      "NL": ["Professionele Kapitein", "Gratis champagne & vers geperst sap", "Handdoeken", "Snorkelsets", "Hydraulisch zwemplatform"],
+      "ES": ["Capitán Profesional", "Champán de cortesía y zumos frescos", "Toallas de baño", "Kits de snorkel", "Plataforma de baño hidráulica con escalera"],
+      "FR": ["Capitaine Professionnel", "Champagne de bienvenue et jus de fruits", "Serviettes", "Matos de plongée", "Plateforme de bain hydraulique"],
+      "IT": ["Capitano Professionista", "Champagne di benvenuto e succhi freschi", "Asciugamani", "Kit maschere", "Spiaggetta idraulica di risalita"]
+    },
+    "excluded": {
+      "EN": ["VAT (21%)", "Fuel (consumption around €170/hr)", "Mooring in other ports", "Overnight stay on request"],
+      "NL": ["BTW (21%)", "Brandstof (verbruik ongeveer €170/uur)", "Mooring in andere havens", "Overnachting op aanvraag"],
+      "ES": ["IVA (21%)", "Combustible (consumo aprox. €170/hora)", "Amarres en puertos externos", "Pernocta a bordo bajo petición"],
+      "FR": ["TVA (21%)", "Carburant (consommation env. €170/heure)", "Amarrage hors port d'attache", "Nuitée à bord sur demande"],
+      "IT": ["IVA (21%)", "Carburante (consumo circa €170/ora)", "Ormeggi in altri porti", "Pernottamento a bordo su richiesta"]
+    },
+    "pricing": {
+      "highSeason": 2100,
+      "midSeason": 1750,
+      "lowSeason": 1400
+    }
+  },
+  {
+    "id": "vandutch-40",
+    "name": "VanDutch 40 Luxury Edition",
+    "brand": "VanDutch Yachts",
+    "type": "Cruiser",
+    "sizeMeters": 12.1,
+    "sizeFeet": 39.7,
+    "maxGuests": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1569263979104-865ab7cd8d13?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1540962351504-03099e0a754b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "charterCode": "VD-40",
+    "included": {
+      "EN": ["Experienced local captain", "Soft drinks, premium water and snack basket", "Towels & clean throws", "Paddleboard & Snorkel equipment", "High-power sound system with wifi audio stream"],
+      "NL": ["Ervaren lokale kapitein", "Frisdrank, premium water en snackmand", "Handdoeken & schone plaids", "Paddleboard & Snorkelset", "Geluidsinstallatie met wifi-audiostream"],
+      "ES": ["Capitán local experimentado", "Refrescos, agua de gama alta y cesta de snacks", "Toallas y mantas limpias", "Paddleboard y equipo de snorkel", "Sistema de sonido de alta potencia con streaming por wifi"],
+      "FR": ["Capitaine local expérimenté", "Sodas, eau premium et panier gourmand", "Serviettes & plaids", "Paddleboard & Équipement snorkeling", "Système de son surpuissant avec streaming wifi"],
+      "IT": ["Capitano locale esperto", "Soft drink, acqua premium e cesto di snack", "Asciugamani e morbidi plaid", "Stand-up paddle & Attrezzatura snorkeling", "Sistema audio ad alte prestazioni con streaming wifi"]
+    },
+    "excluded": {
+      "EN": ["VAT (21%)", "Fuel (approx. €140/hr)", "Restaurant reservations pickup fee", "Hostess onboard (€180)"],
+      "NL": ["BTW (21%)", "Brandstof (ca. €140/uur)", "Afhaalkosten restaurantreserveringen", "Hostess aan boord (€180)"],
+      "ES": ["IVA (21%)", "Combustible (aprox. €140/hora)", "Tasa de recogida para reservas en restaurantes", "Azafata a bordo de apoyo (€180)"],
+      "FR": ["TVA (21%)", "Carburant (env. €140/heure)", "Frais de dépose restaurant par bateau", "Hôtesse à bord (€180)"],
+      "IT": ["IVA (21%)", "Carburante (circa €140/ora)", "Servizio navetta ristoranti", "Hostess a bordo (€180)"]
+    },
+    "pricing": {
+      "highSeason": 1850,
+      "midSeason": 1450,
+      "lowSeason": 1150
+    }
+  }
+]
